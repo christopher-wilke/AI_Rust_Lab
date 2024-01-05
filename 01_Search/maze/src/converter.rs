@@ -21,6 +21,7 @@ impl<'a> MazeConverter<'a> {
             println!("{}", line);
         }
 
+        // reached end
         println!("reached end of read fct.");
     }
 }
